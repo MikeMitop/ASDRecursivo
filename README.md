@@ -28,11 +28,11 @@ Implementar un sistema en Python capaz de calcular conjuntos de Primeros, Siguie
 
 # Gramática rectificada a mano
 
-![gramatica_1](img/gramatica_1-1.png)
+![gramatica_1](img/gramatica_1.1.png)
 
-![gramatica_1.1](img/gramatica_1-2.png)
+![gramatica_1.1](img/gramatica_1.2.png)
 
-![gramatica_1.2](img/gramatica_1-3.png)
+![gramatica_1.2](img/gramatica_1.3.png)
 
 # ¿Cómo compilarlo
 
@@ -235,11 +235,11 @@ A diferencia del primer caso, el diccionario `gramatica_ej2` se construyó mapea
 
 # Gramática Rectificada a Mano
 
-![gramatica_2](img/gramatica_2-1.png)
+![gramatica_2](img/gramatica_2.1.png)
 
-![gramatica_2.1](img/gramatica_2-2.png)
+![gramatica_2.1](img/gramatica_2.2.png)
 
-![gramatica_2.2](img/gramatica_2-3.png)
+![gramatica_2.2](img/gramatica_2.3.png)
 
 # Código Fuente:
 
