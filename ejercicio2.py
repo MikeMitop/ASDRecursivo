@@ -1,5 +1,4 @@
-# Definición de la gramática y símbolos
-gramatica_ej1 = {
+gramatica_ej2 = {
     'S': [['A', 'uno', 'B', 'C', "S'"]],
     "S'": [['dos', "S'"], ['epsilon']],
     'A': [['B', 'C', 'D', "A'"], ["A'"]],
